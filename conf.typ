@@ -419,6 +419,7 @@
 					justify: true,
 				  // отвечает за красные строки там, где их нет, но они должны быть
           first-line-indent: (amount: indent, all: true),
+					leading: 0.5em
 				)
 
 				// Вывод содержания
