@@ -61,7 +61,7 @@
 	)
 )
 // Переменная отвечающая за размер отступа красной строки
-#let indent = 1.25cm
+#let indent = 1.5cm
 #let styled = [#set text(red)].func()
 #let space = [ ].func()
 #let sequence = [].func()
@@ -398,8 +398,8 @@
 					margin: (
 						top: 2cm,
 						bottom: 2cm,
-						left: 2.5cm,
-						right: 1.5cm
+						left: 2cm,
+						right: 1cm
 					)
 				)
 				set text(
